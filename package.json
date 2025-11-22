@@ -1,0 +1,18 @@
+ {
+  "name": "express-mongoose-crud",
+  "version": "1.0.0",
+  "description": "Express + Mongoose CRUD project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
